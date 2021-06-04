@@ -1,1 +1,1 @@
-# Oracle usefull scripts
+# DB usefull scripts
